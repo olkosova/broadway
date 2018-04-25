@@ -24,9 +24,10 @@ p {font-size: 14px;}
 .footer {
   background-color: dimgray;
   font-size: 11px;
-  color: white;
+  color: red;
 }
 .btn-nav {
+  margin-left: 10px;
   font-size: 18px;
   color: white;
 }
